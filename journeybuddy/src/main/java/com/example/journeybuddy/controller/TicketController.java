@@ -1,2 +1,4 @@
-package com.example.journeybuddy.controller;public class TicketController {
+package com.example.journeybuddy.controller;
+
+public class TicketController {
 }
